@@ -11,7 +11,7 @@ The SRM Quantum Computing Club is a dynamic student organization at SRM Universi
 
 The Qiskit Fall Fest is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM to host tech events. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
-The Fall Fest here at SRM University is going to be a Quantum challenges, starting on October. Details about the challenges and rules can be found below. The deadline for Registration TBA IST. Good luck!
+The Fall Fest here at SRM University is going to be a Quantum challenges, starting on October. Details about the challenges and rules can be found below. The deadline for Registration TBA. Good luck!
 ## Official Registration
 
 To officially sign up, register using [this link](https://docs.google.com/forms/d/e/1FAIpQLSfYq8-mhZO2vU5-5CcUDw_y3F9WQtloS2lSUKJmppIwXC2UXw/viewform?usp=sf_link)
