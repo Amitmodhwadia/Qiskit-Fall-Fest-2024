@@ -48,8 +48,7 @@ We are proud to welcome you to the SQCC Qiskit Fall Fest. Our team of organizers
 ### 5:10 PM - 8:00 PM: Mini-Challenges
 - Put your quantum knowledge and skills to the test with a series of mini-challenges designed to challenge and entertain.
 
-### Past events
-[Website](https://www.sqcc.xyz/)
+### [Website](https://www.sqcc.xyz/)
 
 ## Contact us
 [linkedin](https://www.linkedin.com/company/quantumsrm/posts/?feedView=all)
