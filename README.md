@@ -22,8 +22,34 @@ We are proud to welcome you to the SQCC Qiskit Fall Fest. Our team of organizers
 
 | Event                | Time       |
 | ---------------------| ---------- |
-|QC 101 (prefest event)| 6pm - 8pm  |
 
+## Schedule
 
-Watch our [instagram](https://www.instagram.com/quantum_srm/) for latest updates on the fest!
+### 11:00 AM - 11:30 AM: Opening Ceremony
+- Join us as we kick off this exciting event with an opening ceremony that sets the stage for a day of quantum exploration.
+
+### 11:30 AM - 12:00 PM: Introduction to Quantum Mini-Talk
+- Get started with a brief yet informative introduction to the world of quantum computing.
+
+### 12:00 PM - 1:00 PM: Quantum Talk #1
+- Dive deeper into the world of quantum computing with our first captivating talk of the day.
+
+### 1:10 PM - 2:00 PM: Break
+- Breaktime!
+
+### 2:10 PM - 3:00 PM: Quantum Talk #2
+- Continue your quantum journey with our second insightful talk.
+
+### 3:10 PM - 5:00 PM: Introduction to Qiskit Workshop
+- Learn how to harness the power of IBM's Qiskit through our hands-on workshop.
+
+### 5:10 PM - 8:00 PM: Mini-Challenges
+- Put your quantum knowledge and skills to the test with a series of mini-challenges designed to challenge and entertain.
+
+### Past events
+[Website](https://www.sqcc.xyz/)
+
+## Contact us
+[linkedin](https://www.linkedin.com/company/quantumsrm/posts/?feedView=all)
+[Instagram](https://www.instagram.com/quantum_srm/) 
 
