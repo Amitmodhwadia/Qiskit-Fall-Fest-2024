@@ -1,8 +1,7 @@
 
 # Qiskit Fall Fest 2024
 <img src='QFF_Sponsored.png' width='500'>
-< br / >
-<img src='SQCC.png' width='325'>
+<img src='SQCC.png' width='500'>
 
 ## Welcome
 
