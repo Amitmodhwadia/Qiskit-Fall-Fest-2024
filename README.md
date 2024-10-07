@@ -36,7 +36,7 @@ We are proud to welcome you to the SQCC Qiskit Fall Fest. Our team of organizers
 ### Hackathon starts : 15 October 2024
 - Dive deeper into the world of quantum computing with Hackathon.
 
-### Hackathon ends:  16 October 2024
+### Hackathon ends:  18 October 2024
 - Breaktime!
 
 
