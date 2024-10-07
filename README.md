@@ -3,7 +3,7 @@
 <img src='QFF_Sponsored.png' width='500'>
 <img src='SQCC.png' width='500'>
 
-## Welcome
+## Welcome To Quantathon 2.0
 
 This is the Qiskit Fall Fest event for SRM Institute of Science and Technology. We're so excited to have you all here. This event is being hosted by the SQCC club, the quantum tech club of SRM KRT.
 
