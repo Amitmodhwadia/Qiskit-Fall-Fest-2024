@@ -14,7 +14,7 @@ The Qiskit Fall Fest is a collection of quantum computing events on college camp
 The Fall Fest here at SRM University is going to be a Quantum Hackathon, starting on October. Details about the Hackathon and rules can be found below. The deadline for Registration 13 October 2024 . Good luck!
 ## Official Registration
 
-To officially sign up, **Register using [this link](https://quantathon-o.devfolio.co/overview)**
+To officially sign up, ## **Register using [this link](https://quantathon-o.devfolio.co/overview)**
 
 ## Schedule
 
